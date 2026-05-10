@@ -1,0 +1,30 @@
+ESTADÍSTICAS DEL RANGO 1800-2025
+================================
+
+Rango de análisis: 1800 a 2025
+Total de años: 226 años
+
+=== AÑOS BISIESTOS ===
+Total de años bisiestos: 55
+Porcentaje de años bisiestos: 24.34%
+
+=== AÑOS NO BISIESTOS ===
+Total de años no bisiestos: 171
+Porcentaje de años no bisiestos: 75.66%
+
+=== MÚLTIPLOS EN AÑOS NO BISIESTOS ===
+Múltiplos de 11: 16
+Múltiplos de 27: 7
+Múltiplos de AMBOS (11 y 27): 5
+
+Años que son múltiplos simultáneos de 11 y 27 (en años no bisiestos):
+1944, 1998, 2052, 2106, 2160
+
+=== INDICADOR LED ===
+Estado del LED: ENCENDIDO
+Razón: Hay 5 múltiplos simultáneos de 11 y 27, que es más de 4
+
+=== VERIFICACIÓN ===
+Condición LED: multiples_both_count > 4
+Valor: 5 > 4 = VERDADERO ✓
+LED ENCIENDE
